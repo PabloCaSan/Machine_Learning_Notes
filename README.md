@@ -1,2 +1,4 @@
-# Machine_Learning_Notes
-Machine Learning Projects
+# Machine Learning
+
+
+Proyectos que hice en el curso de Machine Learning
